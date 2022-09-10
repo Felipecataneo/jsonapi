@@ -1,0 +1,47 @@
+[
+	{
+		"id": "eece9946-e427-4f5f-a158-1ca82b774f16",
+		"name": "Bublet Casual Food",
+		"description": "Sanduíches, petiscos, pizzas e grelhados, além de coquetéis criativos, em ambiente contemporâneo e descolado.",
+		"category": "Restaurante",
+		"contact": "(13) 3301-0222",
+		"latitude": -23.96560,
+		"longitude": -46.34051
+	},
+	{
+		"id": "eea0c43a-7c75-4a56-a17d-2ddcfc1d93cf",
+		"name": "Posto Petrobras",
+		"description": "Auto Posto BR",
+		"category": "Combustível",
+		"contact": "(13) 3232-7622",
+		"latitude": -23.9557,
+		"longitude": -46.32648
+	},
+	{
+		"id": "92d79d1f-b0de-4b5a-b7c2-2b6ff2784f05",
+		"name": "Pão de Acúcar",
+		"description": "Mercado conselheiro nebias",
+		"category": "Mercado",
+		"contact": "0800 773 2732",
+		"latitude": -23.95866,
+		"longitude": -46.32321
+	},
+	{
+		"id": "c54e490e-f7f2-483e-a846-9719afa0c907",
+		"name": "Droga Raia",
+		"description": "Farmacia",
+		"category": "Farmácia",
+		"contact": "(13) 99701-5211",
+		"latitude": -23.96493,
+		"longitude": -46.32375
+	},
+	{
+		"id": "ebb1aa5c-76b7-4d2f-a718-f01dc8566f40",
+		"name": "Clínica da Pam",
+		"description": "Estamos em constante evolução, buscamos sempre o que há de novo na saúde estética",
+		"category": "Farmácia",
+		"contact": "(13) 98115-4229",
+		"latitude": -23.96432,
+		"longitude": -46.32518
+	}
+]
