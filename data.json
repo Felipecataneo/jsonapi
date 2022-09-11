@@ -1,6 +1,6 @@
 [
 	{
-		"id": "eece9946-e427-4f5f-a158-1ca82b774f16",
+		"id": "1",
 		"name": "Harvard Medical School",
 		"description": "Escola de Medicina de Harvard",
 		"category": "Estudos",
@@ -9,7 +9,7 @@
 		"longitude": -71.10410
 	},
 	{
-		"id": "eea0c43a-7c75-4a56-a17d-2ddcfc1d93cf",
+		"id": "2",
 		"name": "Central Park",
 		"description": "Central Park site: centralparknyc.org ",
 		"category": "Turismo",
@@ -18,7 +18,7 @@
 		"longitude": -73.96651
 	},
 	{
-		"id": "92d79d1f-b0de-4b5a-b7c2-2b6ff2784f05",
+		"id": "3",
 		"name": "The Django",
 		"description": "Jazz no the Django site: thedjangonyc.com ",
 		"category": "Musica",
@@ -27,7 +27,7 @@
 		"longitude": -74.00500
 	},
 	{
-		"id": "c54e490e-f7f2-483e-a846-9719afa0c907",
+		"id": "4",
 		"name": "B&H Photo Video",
 		"description": "Lojas para comprar eletronicos site: bhphotovideo.com ",
 		"category": "Lojas",
@@ -36,12 +36,21 @@
 		"longitude": -73.99610
 	},
 	{
-		"id": "ebb1aa5c-76b7-4d2f-a718-f01dc8566f40",
+		"id": "5",
 		"name": "Marriot Hotel",
 		"description": "Hotel em Nova York site: marriot.com",
 		"category": "Hotel",
 		"contact": "212-967-6000",
 		"latitude": 40.74833,
 		"longitude": -73.99120
+	},
+	{
+		"id": "6",
+		"name": "Brooklyn Ice Cream Factory",
+		"description": "Sorveteria em Nova York site: brooklynicecreamfactory.com",
+		"category": "Restaurante",
+		"contact": "718-522-5211",
+		"latitude": 40.70277,
+		"longitude": -73.99459
 	}
 ]
