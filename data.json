@@ -109,12 +109,12 @@
 	},
 	{
 		"id": "13",
-		"name": "Oculus Center",
-		"description": "Oculus Center",
-		"category": "Lojas",
+		"name": "Oculus",
+		"description": "Oculus",
+		"category": "Turismo",
 		"contact": "999-999-9999",
-		"latitude": 40.71173,
-		"longitude": -74.01145
+		"latitude": 40.71290,
+		"longitude": -74.00986
 	},
 	{
 		"id": "14",
@@ -142,5 +142,41 @@
 		"contact": "999-999-9999",
 		"latitude": 40.70475,
 		"longitude": -74.01383
-	}
+	},
+	{
+		"id": "17",
+		"name": "SUMMIT One Vanderbilt",
+		"description": "SUMMIT One Vanderbilt site:summitov.com/",
+		"category": "Turismo",
+		"contact": "877-682-1401",
+		"latitude": 40.75301,
+		"longitude": -73.97868
+	},
+	{
+		"id": "18",
+		"name": "Academy Records",
+		"description": "Academy Records site:academy-lps.com/",
+		"category": "Musica",
+		"contact": "212-780-9166",
+		"latitude": 40.72993,
+		"longitude": -73.98257
+	},
+	{
+		"id": "19",
+		"name": "Brooklyn Record Exchange",
+		"description": "Brooklyn Record Exchange site:brooklynrecordexchange.com/",
+		"category": "Musica",
+		"contact": "646-969-2030",
+		"latitude": 40.71016,
+		"longitude": -73.92300
+	},
+	{
+		"id": "20",
+		"name": "MedMen NYC cannabis",
+		"description": "MedMen NYC site:medmen.com/",
+		"category": "Restaurante",
+		"contact": "646-846-5551",
+		"latitude": 40.75138,
+		"longitude": -73.98208
+	},
 ]
