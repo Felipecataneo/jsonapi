@@ -52,7 +52,7 @@
 		"contact": "718-522-5211",
 		"latitude": 40.70277,
 		"longitude": -73.99459
-	}
+	},
 	{
 		"id": "7",
 		"name": "Harry Potter Store",
@@ -61,7 +61,7 @@
 		"contact": "999-999-9999",
 		"latitude": 40.74073,
 		"longitude": -73.98964
-	}
+	},
 	{
 		"id": "8",
 		"name": "Estatua da Liberdade",
@@ -70,7 +70,7 @@
 		"contact": "212-363-3200",
 		"latitude": 40.68936,
 		"longitude": -74.04445
-	}
+	},
 	{
 		"id": "9",
 		"name": "Times Square",
@@ -79,7 +79,7 @@
 		"contact": "999-999-9999",
 		"latitude": 40.75941,
 		"longitude": -73.98461
-	}
+	},
 	{
 		"id": "10",
 		"name": "Grand Central Terminal",
@@ -88,7 +88,7 @@
 		"contact": "999-999-9999",
 		"latitude": 40.75315,
 		"longitude": -73.97682
-	}
+	},
 	{
 		"id": "11",
 		"name": "Vessel",
@@ -97,7 +97,7 @@
 		"contact": "302-204-8500",
 		"latitude": 40.75392,
 		"longitude": -74.00214
-	}
+	},
 	{
 		"id": "12",
 		"name": "Catedral de São Patrício",
@@ -106,7 +106,7 @@
 		"contact": "212-753-2261",
 		"latitude": 40.75874,
 		"longitude": -73.97616
-	}
+	},
 	{
 		"id": "13",
 		"name": "Oculus Center",
@@ -115,7 +115,7 @@
 		"contact": "999-999-9999",
 		"latitude": 40.71173,
 		"longitude": -74.01145
-	}
+	},
 	{
 		"id": "14",
 		"name": "Metropolitan Museum of Art",
@@ -124,7 +124,7 @@
 		"contact": "212-535-7710",
 		"latitude": 40.77956,
 		"longitude": -73.96320
-	}
+	},
 	{
 		"id": "15",
 		"name": "Chelsea Market",
