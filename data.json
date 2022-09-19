@@ -133,5 +133,14 @@
 		"contact": "212-652-2111",
 		"latitude": 40.74255,
 		"longitude": -74.00612
+	},
+	{
+		"id": "16",
+		"name": "Touro de Wall Street",
+		"description": "Touro de Wall Street site:chargingbull.com/",
+		"category": "Turismo",
+		"contact": "999-999-9999",
+		"latitude": 40.70475,
+		"longitude": -74.01383
 	}
 ]
